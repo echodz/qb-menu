@@ -1,10 +1,9 @@
 # qb-menu edited
 Menu System for the QBCore Framework
 
-# My Discord Server
-https://discord.gg/AXEVAqH7yX
+credits : nmsh projects
 
-
+![image](https://github.com/user-attachments/assets/3bb26ae6-6997-4187-8cd4-9088bc4de251)
 
 
 --[[
